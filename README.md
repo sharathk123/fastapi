@@ -31,3 +31,17 @@ Make sure you have the following installed:
    ```bash
    git clone https://github.com/sharathk123/fastapi.git
    cd fastapi
+
+## Usage
+Start your MongoDB server (if it's not already running).
+
+Run the application:
+
+bash
+Copy code
+uvicorn main:app --reload
+The application will be accessible at http://127.0.0.1:8000.
+
+API Documentation:
+
+You can view the API documentation at http://127.0.0.1:8000/docs. This interactive documentation allows you to test the API endpoints directly from your browser.
