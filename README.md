@@ -33,15 +33,15 @@ Make sure you have the following installed:
    cd fastapi
 
 ## Usage
-1. ** Start your MongoDB server ** (if it's not already running).
+1. **Start your MongoDB server** (if it's not already running).
 
-2. ** Run the application: **
+2. **Run the application:**
 
 uvicorn main:app --reload
 
 The application will be accessible at http://127.0.0.1:8000.
 
-3. ** API Documentation: **
+3. **API Documentation:**
 
 You can view the API documentation at http://127.0.0.1:8000/docs. 
 This interactive documentation allows you to test the API endpoints directly from your browser.
