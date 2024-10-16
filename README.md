@@ -37,11 +37,11 @@ Make sure you have the following installed:
 
 2. **Run the application:**
 
-uvicorn main:app --reload
+   uvicorn main:app --reload
 
-The application will be accessible at http://127.0.0.1:8000.
+   The application will be accessible at http://127.0.0.1:8000.
 
 3. **API Documentation:**
 
-You can view the API documentation at http://127.0.0.1:8000/docs. 
-This interactive documentation allows you to test the API endpoints directly from your browser.
+   You can view the API documentation at http://127.0.0.1:8000/docs. 
+   This interactive documentation allows you to test the API endpoints directly from your browser.
